@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.env
+banco.db
+# Este arquivo instruirá o Git a ignorar a pasta venv, os arquivos de cache Python, e outros arquivos temporários ou de configuração
